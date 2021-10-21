@@ -39,5 +39,3 @@ The app built to have an ML model to categorize every message received
 ![Screenshot 2](https://github.com/atwahsz/Disaster-Response-Pipeline/blob/master/readme-pics/Capture.JPG)
 
 
-## Licensing, Authors, Acknowledgements
-This app was completed as part of the [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
